@@ -1,4 +1,4 @@
-### Configuración del Backend - COGEN-FRONTEND
+### Configuración del FRONTEND - COGEN-FRONTEND
 
 1. Navega al directorio `COGEN-FRONTEND` desde la consola.
 
